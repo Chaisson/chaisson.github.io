@@ -34,7 +34,7 @@ Botanical Floras books to just learn about the plants for your immediate area.
 
 BONAPs taxo information USA only
 
-### Design Principals:
+### Design Principles:
 Plant Selection Criteria
 
 #### Plant Community Model
